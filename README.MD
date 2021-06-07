@@ -32,5 +32,5 @@
 > peut-être du développement ?
 
 ou alors j'ouvre une resto ?
-<img src="https://github.com/regola-Tacens/Oclock-Presentation/blob/master/resto.jpg" width="200">
+<img src="https://github.com/regola-Tacens/Oclock-Presentation/blob/master/resto.jpg" width="400">
 
